@@ -11,7 +11,7 @@ This repo contains links to all the projects created to build the "cheve" projec
 - [js frontend client](https://github.com/Elcapi0998/ethMexicoRecyclingWebApp)
   - Represents the recycle machine which allows the user authentication and provide the corresponding reward
 - [smart contract](https://github.com/manu-yaff/eth-smart-contract)
-- [flutter frontend client](http://github.com/kiwis08/ETHMexico-Cheve)
+- [flutter frontend client](https://github.com/kiwis08/ETHMexico-Cheve)
   - User can scan a code to authentic with the wallet so they can exchange bottles for crypto asset
 
 ## Short paragraph
