@@ -2,6 +2,8 @@
 
 ![alt](./cheve-logo.jpeg)
 
+ETH Global Mexico showcase: https://ethglobal.com/showcase/alcancia-ckss6
+
 ## Description
 
 This repo contains links to all the projects created to build the "cheve" project. To get more information about the details implementation visit the following links.
@@ -21,6 +23,6 @@ By every ton of glass beer bottles recycled we reduce a total of 1.2 tons of raw
 
 # Taget prizes
 
-1. best Refi project
-2. best public goods project
+1. Best Refi project
+2. Best public goods project
 3. WalletConnect v1.0 Track
